@@ -1,0 +1,62 @@
+// Tab Icons
+import noun_User from '../assets/noun_User.png';
+import dossier_icon from '../assets/dossier_icon.png';
+import rdv from '../assets/rdv.png';
+import noun_Info from '../assets/noun_Info.png';
+import new_rdv from '../assets/new_rdv.png';
+import logout from '../assets/logout.png';
+import user from '../assets/user.jpg';
+// Menu Icons
+import noun_menu from '../assets/noun_menu.png';
+import croix from '../assets/croix.png';
+
+
+
+                        <Image
+                            source={require('../assets/new_rdv.png')}
+                            resizeMode={"containe"}
+                            style={{
+                                width: 25,
+                                height: 25,
+                                tintColor: focused ? '#e32f45' : '#748c94',
+                            }}
+                        />
+
+                        <Ionicons
+                            name="home"
+                            size={24}
+                            resizeMode={"containe"}
+                            style={{
+                                width: 25,
+                                height: 25,
+                                tintColor: focused ? '#e32f45' : '#748c94',
+                            }}
+                        />
+
+
+
+
+
+
+
+
+                        echo "# Elaka_Care" >> README.md
+                        git init
+                        git add README.md
+                        git commit -m "first commit"
+                        git branch -M main
+                        git remote add origin https://github.com/Kingzy95/Elaka_Care.git
+                        git push -u origin main
+
+
+
+
+
+
+
+
+
+
+                        git remote add origin https://github.com/Kingzy95/Elaka_Care.git
+                        git branch -M main
+                        git push -u origin main
